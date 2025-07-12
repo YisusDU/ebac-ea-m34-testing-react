@@ -24,6 +24,7 @@ const useUpdateForm = () => {
     // console.log("Formulario válido:", validForm ? "true" : "false");
     if (!isValid) {
       return;
+      
     }
 
     //Take the info into an object
